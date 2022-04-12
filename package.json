@@ -1,0 +1,26 @@
+{
+    "name": "remote-ext-pack",
+    "displayName": "Remote Ext Pack",
+    "description": "An extension pack with remote/online collaboration related extensions",
+    "version": "0.0.1",
+    "publisher": "ndagistanley",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/NdagiStanley/remote-ext-pack"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "GitHub.codespaces",
+        "GitHub.copilot",
+        "GitHub.remotehub",
+        "ms-vscode.remote-repositories",
+        "ms-vsliveshare.vsliveshare",
+        "ms-vsliveshare.vsliveshare-audio",
+        "ms-vsliveshare.vsliveshare-pack"
+    ]
+}
