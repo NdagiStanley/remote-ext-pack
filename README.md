@@ -6,3 +6,5 @@
 ![Installs](https://vsmarketplacebadge.apphb.com/installs/NdagiStanley.remote-ext-pack.svg)
 
 An extension pack with remote/online collaboration related extensions
+
+The `vsix` files can be downloaded [here](https://marketplace.visualstudio.com/items?itemName=NdagiStanley.remote-ext-pack&ssr=false#version-history)
