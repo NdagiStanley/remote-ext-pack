@@ -2,7 +2,7 @@
     "name": "remote-ext-pack",
     "displayName": "Remote Ext Pack",
     "description": "An extension pack with remote/online collaboration related extensions",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "ndagistanley",
     "repository": {
       "type": "git",
@@ -14,6 +14,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "images/icon.png",
     "extensionPack": [
         "GitHub.codespaces",
         "GitHub.copilot",
