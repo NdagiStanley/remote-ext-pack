@@ -16,6 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [0.0.4] - 2023-01-27
+### Changed
+- CircleCI config
+- CHANGELOG
+### Added
+- 1 extension
+- Extension manifest - `vss-extension.json`
+
 ## [0.0.3] - 2022-04-12
 ### Changed
 - CircleCI config
