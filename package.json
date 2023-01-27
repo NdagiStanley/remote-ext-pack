@@ -17,12 +17,8 @@
     "icon": "images/icon.png",
     "extensionPack": [
         "GitHub.codespaces",
-        "GitHub.copilot",
         "GitHub.remotehub",
         "ms-vscode-remote.remote-ssh",
-        "ms-vscode.remote-repositories",
-        "ms-vsliveshare.vsliveshare",
-        "ms-vsliveshare.vsliveshare-audio",
-        "ms-vsliveshare.vsliveshare-pack"
+        "ms-vsliveshare.vsliveshare"
     ]
 }
