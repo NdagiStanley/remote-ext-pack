@@ -16,6 +16,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [0.0.7] - 2023-01-27
+### Added
+These two are dependencies of GitHub Repositories (and if not included in extension pack, remain active when extension pack is deactivated which is undesired.)
+- Azure Repos (ms-vscode.azure-repos)
+- Remote Repositories (ms-vscode.remote-repositories)
+
 ## [0.0.6] - 2023-01-27
 ### Changed
 - CHANGELOG
@@ -49,7 +55,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - .editorconfig
 - License
 
-<!-- [Unreleased]: https://github.com/NdagiStanley/remote-ext-pack/compare/v0.0.2...HEAD -->
+<!-- [Unreleased]: https://github.com/NdagiStanley/remote-ext-pack/compare/v0.0.7...HEAD -->
+[0.0.6]: https://github.com/NdagiStanley/remote-ext-pack/compare/v0.0.6...v0.0.7
 [0.0.6]: https://github.com/NdagiStanley/remote-ext-pack/compare/v0.0.5...v0.0.6
 [0.0.5]: https://github.com/NdagiStanley/remote-ext-pack/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/NdagiStanley/remote-ext-pack/compare/v0.0.3...v0.0.4

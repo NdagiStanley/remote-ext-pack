@@ -2,7 +2,7 @@
     "name": "remote-ext-pack",
     "displayName": "Remote Ext Pack",
     "description": "An extension pack with remote/online collaboration related extensions",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "ndagistanley",
     "repository": {
       "type": "git",
