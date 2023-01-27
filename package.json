@@ -19,6 +19,8 @@
         "GitHub.codespaces",
         "GitHub.remotehub",
         "ms-vscode-remote.remote-ssh",
+        "ms-vscode.azure-repos",
+        "ms-vscode.remote-repositories",
         "ms-vsliveshare.vsliveshare"
     ]
 }
