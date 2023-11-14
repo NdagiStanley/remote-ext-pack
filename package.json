@@ -9,7 +9,7 @@
       "url": "https://github.com/NdagiStanley/remote-ext-pack"
     },
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^2023.0.0"
     },
     "categories": [
         "Extension Packs"
